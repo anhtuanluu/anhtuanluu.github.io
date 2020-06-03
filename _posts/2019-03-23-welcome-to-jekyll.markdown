@@ -15,7 +15,7 @@ Introducing some valuable interesting courses
 [Tensorflow for Deep Learning][Tensorflow]  
 [Machine Learning with Graphs][Network]  
 
-### natural language processing
+### Natural language processing
 
 [Natural Language Processing with Deep Learning][Language]
 
