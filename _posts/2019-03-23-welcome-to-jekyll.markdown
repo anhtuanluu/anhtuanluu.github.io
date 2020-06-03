@@ -6,11 +6,13 @@ categories: AI, Courses
 ---
 Introducing some valuable interesting courses: 
 
-###### Machine learing
-	[Probability][Probability]
-###### Deep learning
+### Machine learing
 
-###### natural language processing
+	[Probability][Probability]
+
+### Deep learning
+
+### natural language processing
 
 
 <!-- ```javascript
