@@ -8,7 +8,7 @@ Introducing some valuable interesting courses:
 
 ### Machine learing
 
-	[Probability][Probability]
+	[Probability for Computer Scientists][Probability]
 
 ### Deep learning
 
@@ -32,6 +32,6 @@ rzp.capture(payment_id, cost)
 
 <!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. -->
 
-[Probability]: http://web.stanford.edu/class/cs109/
+[Probability]: https://web.stanford.edu/class/cs109
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
