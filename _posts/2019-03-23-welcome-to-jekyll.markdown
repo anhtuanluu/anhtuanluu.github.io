@@ -2,7 +2,7 @@
 layout: post
 title:  "Courses for AI engineer"
 date:   2019-03-23 21:03:36 +0530
-categories: AI, Courses
+categories: AI Courses
 ---
 Introducing some valuable interesting courses
 
