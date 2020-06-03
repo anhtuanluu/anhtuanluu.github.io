@@ -4,16 +4,20 @@ title:  "Courses for AI engineer"
 date:   2019-03-23 21:03:36 +0530
 categories: AI, Courses
 ---
-Introducing some valuable interesting courses: 
+Introducing some valuable interesting courses
 
-### Machine learing
+### Machine learing & Deep learning
 
-	[Probability for Computer Scientists][Probability]
-
-### Deep learning
+[Machine Learning - Andrew Ng][Machine learning]
+[Probability for Computer Scientists][Probability]
+[Bigdata][Bigdata]
+[Basic computer vision][ComputerVision]
+[Tensorflow for Deep Learning][Tensorflow]
+[Machine Learning with Graphs][Network]
 
 ### natural language processing
 
+[Natural Language Processing with Deep Learning][Language]
 
 <!-- ```javascript
 const Razorpay = require('razorpay');
@@ -33,5 +37,9 @@ rzp.capture(payment_id, cost)
 <!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. -->
 
 [Probability]: https://web.stanford.edu/class/cs109
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Bigdata]:   http://web.stanford.edu/class/cs246/
+[ComputerVision]: http://cs231n.stanford.edu/
+[Tensorflow]: https://web.stanford.edu/class/cs20si/
+[Network]: http://web.stanford.edu/class/cs224w/
+[Language]: http://web.stanford.edu/class/cs224n/
+[Machine learning]: https://www.coursera.org/learn/machine-learning
