@@ -8,12 +8,12 @@ Introducing some valuable interesting courses
 
 ### Machine learing & Deep learning
 
-[Machine Learning - Andrew Ng][Machine learning]
-[Probability for Computer Scientists][Probability]
-[Bigdata][Bigdata]
-[Basic computer vision][ComputerVision]
-[Tensorflow for Deep Learning][Tensorflow]
-[Machine Learning with Graphs][Network]
+[Machine Learning - Andrew Ng][Machine learning]  
+[Probability for Computer Scientists][Probability]  
+[Bigdata][Bigdata]  
+[Basic computer vision][ComputerVision]  
+[Tensorflow for Deep Learning][Tensorflow]  
+[Machine Learning with Graphs][Network]  
 
 ### natural language processing
 
