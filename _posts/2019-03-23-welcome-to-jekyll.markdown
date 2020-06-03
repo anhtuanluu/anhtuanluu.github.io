@@ -6,11 +6,11 @@ categories: AI, Courses
 ---
 Introducing some valuable interesting courses: 
 
-# Machine learing
+###### Machine learing
+	[Probability][Probability]
+###### Deep learning
 
-# Deep learning
-
-# natural language processing
+###### natural language processing
 
 
 <!-- ```javascript
@@ -28,8 +28,8 @@ rzp.capture(payment_id, cost)
 	})
 ``` -->
 
-<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. -->
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+[Probability]: http://web.stanford.edu/class/cs109/
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
+[jekyll-talk]: https://talk.jekyllrb.com/
