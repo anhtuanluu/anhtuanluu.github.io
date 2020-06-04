@@ -7,9 +7,10 @@ categories: AI, python
 Bài viết này sẽ như là 1 tour đơn giản giới thiệu 1 vòng về cuộc hành trình trong khoa học về dữ liệu và machine learning. Xuyên qua bài viêt này, bạn sẽ có thể làm việc với các vấn đề trong các thuật toán của machine learning với code Python.  
 Bài viết có lược bỏ các phần có liên quan đến toán thống kê cho dễ hiểu 😄 .  
 
-![Change](./image_machinelearning/machinelearning.jpg)  
+![](https://user-images.githubusercontent.com/66369791/83756512-58e79300-a699-11ea-83a8-9ca7d385a372.jpg)  
 
 Đầu tiên, bạn cần nắm rõ.  
+
 ## Có 3 loại thuật toán trong Machine Learning  
 
 Dưới đây mình sẽ nói về tư tưởng của từng thuật toán.  
