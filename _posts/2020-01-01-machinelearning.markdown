@@ -52,8 +52,6 @@ Line Regression được sử dụng để ước tính giá trị thực (giá 
 
 Cách tốt nhất để hiểu linear regression là nhớ laị kinh nghiệm tuổi thơ. Hãy xem, bạn yêu cầu một đứa bé lớp 5 sắp mọi người của nó trong lớp bằng thứ tự tăng dần cân năng mà không hỏi cả lớp về cân năng gì cả. Đứa bé sẽ làm gì ? Khả năng cao nó sẽ nhìn vào chiều cao và kết cấu cơ thể để sắp xếp cả lớp sử dụng sự kết hợp các thông số mà nó có thể nhìn thấy. Đây chính là Linear Regression trong đời sống thực. Đứa bé thực tế đã quan sát được chiều và kết cấu cơ thể sẽ có sự tương quan với trọng lượng, đây chính là điều giống như công thức ở trên.  
 
-Cách tốt nhất để hiểu linear regression là nhớ laị kinh nghiệm tuổi thơ. Hãy xem, bạn yêu cầu một đứa bé lớp 5 sắp mọi người của nó trong lớp bằng thứ tự tăng dần cân năng mà không hỏi cả lớp về cân năng gì cả. Đứa bé sẽ làm gì ? Khả năng cao nó sẽ nhìn vào chiều cao và kết cấu cơ thể để sắp xếp cả lớp sử dụng sự kết hợp các thông số mà nó có thể nhìn thấy. Đây chính là Linear Regression trong đời sống thực. Đứa bé thực tế đã quan sát được chiều và kết cấu cơ thể sẽ có sự tương quan với trọng lượng, đây chính là điều giống như công thức ở trên.  
-
 Trong công thức trên :  
 
 Y - Biến phục thuộc  
@@ -68,7 +66,36 @@ Các hệ số a và b đều bắt nguồn từ việc giảm thiếu các kho�
 
 Tham khảo ví dụ dưới đây. Ở đây chúng ta đã xác định rõ được line tốt nhất có công thức là y=0.2811x+13.9. Bây giờ, sử dụng công thức này, chúng ta có thể tìm được cân năng, nếu chúng ta biết được chiều cao của một người nào đó.  
 
+![](https://user-images.githubusercontent.com/66369791/83757282-72d5a580-a69a-11ea-8bf8-066e09c43984.png)  
+
 Linear Regression được phân làm 2 loại chính : Simple Linear Regression và Multiple Linear Regression. Simple Linear Regression được đặc trưng bởi một biến đọc lập. Multiple Linear Regression được đặc trung bởi nhiều hơn 1 biến độc lập. Trong khi tìm kiếm line tốt nhất, bạn có thể sẽ tìm được một hôi qui đa thức hoặc đường cong.  
+
+Code ví dụ:  
+
+```python
+#Import Library
+#Import other necessary libraries like pandas, numpy...
+from sklearn import linear_model
+
+#Load Train and Test datasets
+#Identify feature and response variable(s) and values must be numeric and numpy arrays
+x_train=input_variables_values_training_datasets
+y_train=target_variables_values_training_datasets
+x_test=input_variables_values_test_datasets
+
+# Create linear regression object
+linear = linear_model.LinearRegression()
+
+# Train the model using the training sets and check score
+linear.fit(x_train, y_train)
+linear.score(x_train, y_train)
+
+#Equation coefficient and Intercept
+print('Coefficient: \n', linear.coef_)
+print('Intercept: \n', linear.intercept_)
+#Predict Output
+predicted= linear.predict(x_test)
+```  
 
 ## 2. Logistic Regression  
 
