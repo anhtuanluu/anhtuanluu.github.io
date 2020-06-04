@@ -7,26 +7,33 @@ categories: AI, python
 Bài viết này sẽ như là 1 tour đơn giản giới thiệu 1 vòng về cuộc hành trình trong khoa học về dữ liệu và machine learning. Xuyên qua bài viêt này, bạn sẽ có thể làm việc với các vấn đề trong các thuật toán của machine learning với code Python.  
 Bài viết có lược bỏ các phần có liên quan đến toán thống kê cho dễ hiểu 😄 .  
 
+![][image_machinelearning/machinelearing.jpg"]  
 
 Đầu tiên, bạn cần nắm rõ.  
 ## Có 3 loại thuật toán trong Machine Learning  
+
 Dưới đây mình sẽ nói về tư tưởng của từng thuật toán.  
   
 ### 1. Supervised Learning  
   
 Cách thức vận hành : Đây là thuật toát bao gồm một biến mục tiêu / kết quả (hoặc biến phụ thuộc). biến này được dự đoán từ 1 tập hợp các nhân tố ( biến độc lập) . Sử dụng những tập hợp của các biến, chúng ta tạo được một hàm có thể cho phép các kết quả output đúng với dự đoán tương ứng với kết quả input. Quá trình "training" này sẽ tiếp tục cho đến các chúng ta đạt được một độ chính xác mong muốn liên quan đến việc "traing dữ liệu".  
+
 Ví dụ của các thuật toán Supervised Learning : Regression, Decision Tree, Random Forest, KNN, Logistic Regression v.v.v…  
 
 ### 2. Unsupervised Learning  
 
 Cách thức vận hành : Trong thuật toán này, chúng ta không có bất kì biến mục tiêu / kết quả để dự đoán / đánh giá . Nó được sử dụng để phân nhóm các tập dữ liệu vào các nhóm khác nhau. Các nhóm này được sử dụng cho việc phân khúc các "khách hàng' vào các nhóm khác nhau nữa cho mục tiêu cụ thể.  
+
 Ví dụ của Unsupervised Learning : thuật toán Apriori, K-means.  
 
 ### 3. Reinforcement Learning  
 
 Cách thức vận hành : Sử dụng thuật toán này, máy sẽ được luyện tập để ra các quyết định. Máy sẽ được tiếp xúc với một môi trường nơi mà nó được tự luyện tập liên tục sử dụng với phương thức "thử và sửa sai" cho đến khi "sai" đạt đến ngưỡng chấp nhận được hoặc là sẽ bằng 0 trong điều kiện tuyệt đối. Máy sẽ học từ các "kinh nghiệm trong quá khứ" và "học các kiến thức" tốt nhất có thể được để tạo nên các quyết định chính xác về mặt logic business.  
+
 Ví dụ của Reinforcement Learning: Markov Decision Process  
+
 Dưới đây là danh sách các thuật toán Machine Learning phổ biến. Những thuật toán này có thể được áp dung cho bất kì vấn đề nào về dữ liệu :  
+  
     Linear Regression  
     Logistic Regression  
     Decision Tree  
@@ -40,9 +47,10 @@ Dưới đây là danh sách các thuật toán Machine Learning phổ biến. N
 
 ## 1. Linear Regression  
 
-Line Regression được sử dụng để ước tính giá trị thực (giá nhà, số lượng cuộc gọi, doanh thu bán hàng v.v.v.. dựa trên các biến thay đổi liên tục). Ở đây, chúng ta thiết lập mối quan hệ giữa các biến độc lập và biến phục thuộc bằng cách lắp 1 line tốt nhất.  
-line này được biết đến như một dòng đệ qui và được biểu diễn bằng công thức Y = a*X + b  
+Line Regression được sử dụng để ước tính giá trị thực (giá nhà, số lượng cuộc gọi, doanh thu bán hàng v.v.v.. dựa trên các biến thay đổi liên tục). Ở đây, chúng ta thiết lập mối quan hệ giữa các biến độc lập và biến phục thuộc bằng cách lắp 1 line tốt nhất, line này được biết đến như một dòng đệ qui và được biểu diễn bằng công thức Y = a*X + b  
+
 Cách tốt nhất để hiểu linear regression là nhớ laị kinh nghiệm tuổi thơ. Hãy xem, bạn yêu cầu một đứa bé lớp 5 sắp mọi người của nó trong lớp bằng thứ tự tăng dần cân năng mà không hỏi cả lớp về cân năng gì cả. Đứa bé sẽ làm gì ? Khả năng cao nó sẽ nhìn vào chiều cao và kết cấu cơ thể để sắp xếp cả lớp sử dụng sự kết hợp các thông số mà nó có thể nhìn thấy. Đây chính là Linear Regression trong đời sống thực. Đứa bé thực tế đã quan sát được chiều và kết cấu cơ thể sẽ có sự tương quan với trọng lượng, đây chính là điều giống như công thức ở trên.  
+
 Cách tốt nhất để hiểu linear regression là nhớ laị kinh nghiệm tuổi thơ. Hãy xem, bạn yêu cầu một đứa bé lớp 5 sắp mọi người của nó trong lớp bằng thứ tự tăng dần cân năng mà không hỏi cả lớp về cân năng gì cả. Đứa bé sẽ làm gì ? Khả năng cao nó sẽ nhìn vào chiều cao và kết cấu cơ thể để sắp xếp cả lớp sử dụng sự kết hợp các thông số mà nó có thể nhìn thấy. Đây chính là Linear Regression trong đời sống thực. Đứa bé thực tế đã quan sát được chiều và kết cấu cơ thể sẽ có sự tương quan với trọng lượng, đây chính là điều giống như công thức ở trên.  
 
 Trong công thức trên :  
