@@ -7,7 +7,7 @@ categories: AI, python
 Bài viết này sẽ như là 1 tour đơn giản giới thiệu 1 vòng về cuộc hành trình trong khoa học về dữ liệu và machine learning. Xuyên qua bài viêt này, bạn sẽ có thể làm việc với các vấn đề trong các thuật toán của machine learning với code Python.  
 Bài viết có lược bỏ các phần có liên quan đến toán thống kê cho dễ hiểu 😄 .  
 
-![][image_machinelearning/machinelearing.jpg"]  
+![][image_machinelearning/machinelearing.jpg]  
 
 Đầu tiên, bạn cần nắm rõ.  
 ## Có 3 loại thuật toán trong Machine Learning  
@@ -34,16 +34,16 @@ Ví dụ của Reinforcement Learning: Markov Decision Process
 
 Dưới đây là danh sách các thuật toán Machine Learning phổ biến. Những thuật toán này có thể được áp dung cho bất kì vấn đề nào về dữ liệu :  
   
-    Linear Regression  
-    Logistic Regression  
-    Decision Tree  
-    SVM  
-    Naive Bayes  
-    KNN  
-    K-Means  
-    Random Forest  
-    Dimensionality Reduction Algorithms  
-    Gradient Boost & Adaboost  
+   Linear Regression  
+   Logistic Regression  
+   Decision Tree  
+   SVM  
+   Naive Bayes  
+   KNN  
+   K-Means  
+   Random Forest  
+   Dimensionality Reduction Algorithms  
+   Gradient Boost & Adaboost  
 
 ## 1. Linear Regression  
 
