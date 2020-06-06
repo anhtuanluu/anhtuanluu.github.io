@@ -1,6 +1,6 @@
-title: Tuan's Blog
+title: Khoa học dữ liệu
 author: GitHub User
-email: your-email@domain.com
+email: atuanbk58@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -21,18 +21,18 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: 
+    # twitter: 
     github:  anhtuanluu
-    linkedIn: 
+    # linkedIn: 
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
     # instagram: jekyll
     # pinterest: jekyll
     # youtube: jekyll
-    # facebook: jekyll
+    facebook: https://www.facebook.com/Tuannnn.luu
     # soundcloud: jekyll
-    # telegram: jekyll
+    telegram: 0984708742
 
     # Mastodon instances
     # mastodon:

@@ -107,4 +107,36 @@ Hãy giả sử bạn của bạn cho bạn 1 bài toàn để giải. Chỉ có
 
 Quay trở về với toán, các tỷ lệ log kết quả được mô hình hóa bằng sự kết hợp tuyến tính của các biến dự đoán.  
 
+```python
+odds= p/ (1-p) = probability of event occurrence / probability of not event occurrence
+ln(odds) = ln(p/(1-p))
+logit(p) = ln(p/(1-p)) = b0+b1X1+b2X2+b3X3....+bkXk
+```  
+
+Ở trên, p là xác suất của các sự hiện diện của các đặc tính cần quan tâm. Nó chọn các param có thể tối đa hóa sự chuẩn xác của các giá trị mẫu hơn là việc giảm thiểu bình phương lỗi (giảm thiểu bình phương lỗi là cách tiếp cận của hồi qui thông thường)
+
+Bây giờ, bạn có thể hỏi, tại sao phải log ? Để không đi sâu quá nhiều vào toán học trong bài viết này, tôi sẽ nói một cách đơn giản là việc log là một trong số những cách tốt nhất của toán học để mô phỏng lại một step function.  
+
+![](https://user-images.githubusercontent.com/66369791/83945677-8f0e4980-a836-11ea-9cfa-ac6b4ac28659.png)
+
+```python
+#Import Library
+from sklearn.linear_model import LogisticRegression
+#Assumed you have, X (predictor) and Y (target) for training data set and x_test(predictor) of test_dataset
+# Create logistic regression object
+model = LogisticRegression()
+# Train the model using the training sets and check score
+model.fit(X, y)
+model.score(X, y)
+#Equation coefficient and Intercept
+print('Coefficient: \n', model.coef_)
+print('Intercept: \n', model.intercept_)
+#Predict Output
+predicted= model.predict(x_test)
+```  
+
+## 3. Decision Tree
+
+Đây là một trong những thuật toán yêu thích của tôi và tôi sử dụng nó khá thường xuyên. Nó là một loại thuật toán supervised learning được sử dụng chủ yếu cho các vấn đề phân loại. Đáng ngạc nhiên, nó hoạt động cho cả hai biến phụ thuộc phân loại và biến phụ thuộc liên tục. Trong thuật toán này, chúng ta chia "population" thành hai hoặc các nhóm tập hợp. Điều này được thực hiện dựa trên các biến thuộc tính quan trọng nhất / các biến độc lập để phân loại các groups có thể được. Để biết thêm, bạn có thể đọc: Decision Tree Simplified.
+
 
