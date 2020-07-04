@@ -13,12 +13,12 @@ Introducing some valuable interesting courses
 [Bigdata][Bigdata]  
 [Basic computer vision][ComputerVision]  
 [Tensorflow for Deep Learning][Tensorflow]  
-[Machine Learning with Graphs][Network] 
+[Machine Learning with Graphs][Network]  
 [Dive into deep learning][d2l]	
 
 ### Natural language processing
 
-[Natural Language Processing with Deep Learning][Language]	
+[Natural Language Processing with Deep Learning][Language]  
 [Natural Language Roadmap][Roadmap]	
 
 
