@@ -41,9 +41,7 @@ plainwhite:
     # - username: jekyll2
     #   instance: example.com
     navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
+    - title: My resume
       url: "/resume"
 
 # If you want to link only specific pages in your header, uncomment
