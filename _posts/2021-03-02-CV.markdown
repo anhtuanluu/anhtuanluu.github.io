@@ -13,6 +13,7 @@ Email: atuanbk58@gmail.com
 
 Adress: Hanoi, Vietnam
 
+
 About Me
 --------------------
 ---
@@ -21,6 +22,7 @@ I am an engineer from Ukraine. I like astronomy and everything related to DevOps
 Recently switched from team management to an individual contributor role to feel the world of engineering on the tip of my fingers again
 
 Certified: AWS Solutions Architect Associate, Terraform Associate.
+
 
 
 Professional Experience
@@ -76,6 +78,7 @@ Jun 2011 – Nov 2014
 :   ### Support Engineer — "YourServerAdmin"
 
     I grew up from a Level-1 tech support engineer (communication with customers and initial problem analysis) to Level-3 System Administrator responsible for complex technical tasks and daily shift management.
+    
 
 Skills
 ----------------------------------
@@ -100,6 +103,7 @@ Techs
 
 English
 :   C1 (CEFR) / Advanced.
+
 
 Activities and interests
 ------------------------
