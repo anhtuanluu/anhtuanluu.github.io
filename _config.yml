@@ -1,5 +1,5 @@
 title: Khoa học dữ liệu
-author: GitHub User
+author: tuanlxa
 email: atuanbk58@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Tuan Luu
-  tagline: Developer, AI engineer
+  tagline: data Scientist, Data engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
