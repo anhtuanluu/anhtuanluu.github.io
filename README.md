@@ -104,10 +104,8 @@ Navigation can be enabled by adding the following line to your `_config.yml`
 ```yaml
 plainwhite:
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: My resume
+      url: "/myresume"
 ```
 
 **Dark mode**
