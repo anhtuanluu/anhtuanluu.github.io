@@ -4,12 +4,14 @@ title:  "My resume"
 date:   2021-03-02 19:03:36 +0530
 permalink: /cv/
 ---
-All about me
 
 ---
-title: Serhii Vasylenko
+Full name: Luu Xuan Anh Tuan
+Gender: Male
+Phone: 0966001198
+Email: atuanbk58@gmail.com
+Adress: Hanoi, Vietnam
 ---
-##### <contacts@vasylenko.info> | +380 66 268 86 11 | [linkedin.com/in/svasylenko](https://linkedin.com/in/svasylenko)
 
 About Me
 --------------------
