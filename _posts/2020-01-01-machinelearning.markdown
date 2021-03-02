@@ -2,7 +2,7 @@
 layout: post
 title:  "Top các thuật toán machine Learning "
 date:   2020-01-01 21:03:36 +0530
-categories: AI, python
+categories: AI python
 ---
 Bài viết này sẽ như là 1 tour đơn giản giới thiệu 1 vòng về cuộc hành trình trong khoa học về dữ liệu và machine learning. Xuyên qua bài viêt này, bạn sẽ có thể làm việc với các vấn đề trong các thuật toán của machine learning với code Python.  
 Bài viết có lược bỏ các phần có liên quan đến toán thống kê cho dễ hiểu 😄 .  
