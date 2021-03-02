@@ -6,6 +6,7 @@ permalink: /cv/
 ---
 Luu Xuan Anh Tuan
 --------------------
+---
 Phone: 0966001198
 
 Email: atuanbk58@gmail.com
@@ -14,6 +15,7 @@ Adress: Hanoi, Vietnam
 
 About Me
 --------------------
+---
 I am an engineer from Ukraine. I like astronomy and everything related to DevOps. I thrive on developing great product offerings, great people, and great teams.
 
 Recently switched from team management to an individual contributor role to feel the world of engineering on the tip of my fingers again
@@ -23,6 +25,7 @@ Certified: AWS Solutions Architect Associate, Terraform Associate.
 
 Professional Experience
 --------------------
+---
 Nov 2020 — present time
 :   ### Platform Software Engineer at Grammarly
 
@@ -76,6 +79,7 @@ Jun 2011 – Nov 2014
 
 Skills
 ----------------------------------
+---
 Leader
 :   Team motivation, mentorship, cultivation of soft/hard skills of team members.
 
@@ -99,6 +103,7 @@ English
 
 Activities and interests
 ------------------------
+---
 Travel
 :   I like to explore new cities and countries, and I like trekking. I've been to the Annapurna base camp, and now I want to visit the base camp of Everest.
 
