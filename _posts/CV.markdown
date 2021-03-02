@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "My resume"
-date:   2021-03-02 19:03:36 +0530
 ---
 All about me
 
