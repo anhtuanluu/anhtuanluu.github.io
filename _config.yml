@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Tuan Luu
-  tagline: data Scientist, Data engineer
+  tagline: Developer, AI engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
