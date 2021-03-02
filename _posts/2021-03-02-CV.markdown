@@ -4,10 +4,8 @@ title:  "My resume"
 date:   2021-03-02 19:03:36 +0530
 permalink: /cv/
 ---
-Full name: Luu Xuan Anh Tuan
-
-Gender: Male
-
+Luu Xuan Anh Tuan
+--------------------
 Phone: 0966001198
 
 Email: atuanbk58@gmail.com
