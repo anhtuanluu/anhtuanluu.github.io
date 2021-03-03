@@ -11,7 +11,7 @@ Luu Xuan Anh Tuan
 
 **Email**:             atuanbk58@gmail.com  
 
-**Adress**:            Hadong, Hanoi, Vietnam
+**Adress**:           Hadong, Hanoi, Vietnam
 
 
 About Me
@@ -24,7 +24,7 @@ Experience with machine learning, deep learning, web crawling and data mining. H
 Education
 --------------------
 ---
-Sep 2013 — Jun 2018
+***Sep 2013 — Jun 2018***
 :   ### Ha Noi University of Science and Technology (HUST)
 
     Major: Control engineering and automation - Advanced Program
@@ -45,10 +45,6 @@ Team
 :   Fostering team values and working principles and developing the new ones together with the team.\
     Hiring new team members and forming the required team skillset.
 
-Clouds
-:   Amazon Web Services. Design and fine-tuning of resilient and HA infrastructures; costs optimization and security hardening. 4 years of hands-on experience. 
-
-
 English
 :   820 TOEIC
 
@@ -66,4 +62,4 @@ Gaming
 :   Love playing video games in spare time like AOE, LOL
 
 Sciences 
-:   Desire to discover new scientific knowledge in mathematics and statistics
+:   Deep into discover new scientific knowledge in mathematics and statistics
