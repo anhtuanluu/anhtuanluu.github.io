@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My resume"
-date:   2021-03-02 19:03:36 +0530
+date:   2021-03-03 19:03:36 +0530
 permalink: /cv/
 ---
 Luu Xuan Anh Tuan
