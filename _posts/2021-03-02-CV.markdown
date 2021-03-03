@@ -7,11 +7,11 @@ permalink: /cv/
 Luu Xuan Anh Tuan
 --------------------
 ---
-Phone: 0966001198
+#####Phone:   0966001198
 
-Email: atuanbk58@gmail.com
+#####Email:   atuanbk58@gmail.com
 
-Adress: Hanoi, Vietnam
+#####dress:   Hanoi, Vietnam
 
 
 About Me
@@ -25,7 +25,7 @@ Education
 --------------------
 ---
 Sep 2013 — Jun 2018
-:   Ha Noi University of Science and Technology (HUST)
+:   ### Ha Noi University of Science and Technology (HUST)
 
     Major: Control engineering and automation - Advanced Program
 
