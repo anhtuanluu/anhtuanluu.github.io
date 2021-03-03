@@ -17,13 +17,19 @@ Adress: Hanoi, Vietnam
 About Me
 --------------------
 ---
-I am an engineer from Ukraine. I like astronomy and everything related to DevOps. I thrive on developing great product offerings, great people, and great teams.
+An engineer like everything related to data, thrive on developing great product offerings, great people, and great teams.
 
-Recently switched from team management to an individual contributor role to feel the world of engineering on the tip of my fingers again
+Experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineer in future career
 
-Certified: AWS Solutions Architect Associate, Terraform Associate.
+Education
+--------------------
+---
+Sep 2013 — Jun 2018 
+:   Ha Noi University of Science and Technology (HUST)
 
+    Major: Control engineering and automation - Advanced Program
 
+    GPA: 3.31/4
 
 Professional Experience
 --------------------
@@ -108,13 +114,11 @@ English
 Activities and interests
 ------------------------
 ---
-Travel
-:   I like to explore new cities and countries, and I like trekking. I've been to the Annapurna base camp, and now I want to visit the base camp of Everest.
+Sports
+:   Enjoy playing football, running, chess
 
-Blogging
-:   I love to write tutorials and articles about the technologies I use and learn. 
+Gaming
+:   Love video games in spare time like AOE, LOL
 
-Science 
-:   Fond of History, Astronomy, and Physics. I wish to see Betelgeuse supernova explosion someday even though the expected explosion date is somewhere between today and 100k years.
-
----
+Sciences 
+:   Desire to discover new scientific knowledge in mathematics and statistics
