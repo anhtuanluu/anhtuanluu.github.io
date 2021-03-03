@@ -86,7 +86,7 @@ Jun 2011 – Nov 2014
     I grew up from a Level-1 tech support engineer (communication with customers and initial problem analysis) to Level-3 System Administrator responsible for complex technical tasks and daily shift management.
     
 
-Skills
+Key Skills
 ----------------------------------
 ---
 Leader
@@ -103,22 +103,22 @@ PM
 Clouds
 :   Amazon Web Services. Design and fine-tuning of resilient and HA infrastructures; costs optimization and security hardening. 4 years of hands-on experience. 
 
-Techs
-:   Jenkins, GitlabCI, Github Actions, Bitrise, CircleCI.\
-    Terraform, Docker, Ansible, Nginx, Apache, Databases.
 
 English
-:   C1 (CEFR) / Advanced.
+:   820 TOEIC
 
+Technical Skills
+------------------------
+---
 
-Activities and interests
+Activities And Interests
 ------------------------
 ---
 Sports
 :   Enjoy playing football, running, chess
 
 Gaming
-:   Love video games in spare time like AOE, LOL
+:   Love playing video games in spare time like AOE, LOL
 
 Sciences 
 :   Desire to discover new scientific knowledge in mathematics and statistics
