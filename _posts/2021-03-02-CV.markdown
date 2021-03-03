@@ -24,7 +24,7 @@ Experience with machine learning, deep learning, web crawling and data mining. H
 Education
 --------------------
 ---
-Sep 2013 — Jun 2018 
+Sep 2013 — Jun 2018
 :   Ha Noi University of Science and Technology (HUST)
 
     Major: Control engineering and automation - Advanced Program
