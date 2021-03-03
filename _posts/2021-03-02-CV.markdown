@@ -19,7 +19,7 @@ About Me
 ---
 An engineer like everything related to data, thrive on developing great product offerings, great people, and great teams.
 
-Experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineer in future career
+Experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineer in future career.
 
 Education
 --------------------
@@ -44,6 +44,10 @@ Leader
 Team
 :   Fostering team values and working principles and developing the new ones together with the team.\
     Hiring new team members and forming the required team skillset.
+
+Clouds
+:   Amazon Web Services. Design and fine-tuning of resilient and HA infrastructures; costs optimization and security hardening. 4 years of hands-on experience. 
+
 
 English
 :   820 TOEIC
