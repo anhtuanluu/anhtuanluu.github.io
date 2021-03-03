@@ -19,7 +19,7 @@ About Me
 ---
 An engineer like everything related to data, thrive on developing great product offerings, great people, and great teams.
 
-Experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineer in future career.
+Experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineering in future career.
 
 Education
 --------------------
@@ -60,7 +60,7 @@ Activities And Interests
 ------------------------
 ---
 Sports
-:   Enjoy playing football, running, chess
+:   Playing football, badminton to enjoy the rest time after working hours and train physical health.
 
 Gaming
 :   Love playing video games in spare time like AOE, LOL
