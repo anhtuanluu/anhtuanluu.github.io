@@ -43,11 +43,8 @@ Leader
 
 Team
 :   Fostering team values and working principles and developing the new ones together with the team.\
+
     Hiring new team members and forming the required team skillset.
-
-Clouds
-:   Amazon Web Services. Design and fine-tuning of resilient and HA infrastructures; costs optimization and security hardening. 4 years of hands-on experience. 
-
 
 English
 :   820 TOEIC
