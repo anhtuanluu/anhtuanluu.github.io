@@ -67,7 +67,7 @@ Key Skills
 
     Strong background in deep learning algorithms and modeling techniques (CNN, CRNN, RNN, GRU, LSTM).
     
-    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer, GPT2...) and their applications.
+    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer, GPT2...).
 
     Experience with Computer Vision, Natural Language Processing, Audio Signal Processing applications.
 
