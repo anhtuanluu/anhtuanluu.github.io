@@ -35,7 +35,7 @@ Professional Experience
 --------------------
 ---
     
-Skills
+Key Skills
 ----------------------------------
 ---
 Leader
@@ -44,26 +44,63 @@ Leader
 Team
 :   Fostering team values and working principles and developing the new ones together with the team.\
 
-    Hiring new team members and forming the required team skillset.
+    Hiring, training new team members and forming the required team skillset.
 
 Strong problem solving and debugging/troubleshooting skills
 
 Communication and presentation
 
+Organizational and analytical skills
+
 Understanding of technical documentation
 
-Excellent programming skills
+Programming
+:   Excellent programming skills
+    Learn quickly new language program
 
-Machine learning
+Machine learning, Deep learning algorithms
 
-Deep learning
+Computer vision
+:   Prototype and develop deep learning driven computer vision/imaging algorithms for embedded and mobile platforms.\
+    Drive the testing, documentation, verification, productization and maintenance of the models
 
-Data engineering
+Natural Language Processing
+
+Predictive Modeling
+
+Data engineering 
+:   Experience with SQL, noSQL, relational databases, database concepts, dimensional modeling and database design
+Data mining
+
+Web scraping
 
 Web developing
 
 English
-:   820 TOEIC
+:   820/990 TOEIC
+
+Technical Skills
+----------------------------------
+---
+Proficient in one or more programming languages such as Python, C/C++, HTML, CSS, Javascript
+
+Basic experience in using Linux, windows, macOS
+
+Experience with ML/DL frameworks like Pytorch, Tensorflow, Keras, Mxnet, Pandas, numpy, scikit-learn, Dgl.ai
+
+Familly with image processing, natural language processing, voice processing tools: OpenCV, Scikit-image, Pillow, Matplotlib, Huggingface, Fairseq, Faiss, NLTK, NeMo, Librosa
+
+Exposure to GPU technology and CUDA, Cudnn programming, CUDA optimization experience
+
+Basic knowledge with hadoop ecosystem (HDFS, YARN, MapReduce, PIG, Hive, Sqoop, Zookeeper...), PySpark
+
+Proficient web development frameworks such as Reactjs, Jquery, Nodejs, Bootstrap
+
+Expertise with these technologies: Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery
+
+Basic experience with common databases such as MySQL, SQL server, SQLite, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j
+
+Basic knowledge with Google Cloud Platform
 
 Activities And Interests
 ------------------------
