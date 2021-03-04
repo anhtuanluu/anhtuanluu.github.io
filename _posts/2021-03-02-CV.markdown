@@ -40,23 +40,28 @@ Key Skills
 ---------------------
 ---
 ***Leader***
+
 :   Team motivation, mentorship, cultivation of soft/hard skills of team members.
 
 ***Team***
-:   Fostering team values and working principles and developing the new ones together with the team.\
+
+:   Fostering team values and working principles and developing the new ones together with the team.
 
     Hiring, training new team members and forming the required team skillset.
 
 ***mathematics and statistics***
+
 :   Good knowledge of algebra, calculus and probability statistics
 
 ***Programming***
+
 :   Excellent programming skills, good understand in OOP.
 
     Able to learn quickly new language program.
 
 ***Machine learning/Deep learning***
-:   Good understand in machine learning algorithms: supervised learning (kNN, SVM, Decision Trees, Naive Bayes, Logistic regression, SGD...), unsupervised learning (K-means, Affinity Propagation, DBSCAN)
+
+:   Good understand in machine learning algorithms: supervised learning (kNN, SVM, Decision Trees, Naive Bayes, Logistic regression, SGD...), unsupervised learning (K-means, Affinity Propagation, DBSCAN).
 
     Knowledge in dimensionality reduction algorithms, model selection, feature engineering techniques.
 
@@ -71,20 +76,25 @@ Key Skills
     Drive the testing, documentation, verification, productization and maintenance of the models.
 
 ***Predictive Modeling***
+
 :   Understand the basics of the techniques that create, process, and validate a model to forecast future outcomes.
 
 ***Data engineering***
+
 :   Experience with SQL, NoSQL, relational databases, database concepts, dimensional modeling and database design.
 
 ***Web scraping***
+
 :   Experience with extracting information and data from variety of websites, transforming the information on a webpage into structured data
 
 ***Web developing***
+
 :   Knowledge in website building process, Responsive design, testing and debugging.
 
     Ability to building and maintenance of websites, include front-end and backend.
 
 ***Soft skills***
+
 :   Understanding of technical documentation.
 
     Strong problem solving and debugging/troubleshooting skills.
