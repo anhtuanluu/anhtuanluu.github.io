@@ -67,15 +67,16 @@ Key Skills
 
     Learn quickly new language program.
 
-***Machine learning***
-:   Updating...
+***Machine learning/Deep learning***
+:   Good understand in machine learning algorithms: supervised learning (kNN, SVM, Decision Trees, Naive Bayes, Logistic regression, SGD), unsupervised learning (K-means, Affinity Propagation, DBSCAN)
 
-***Deep learning***
-:   Experience with Computer Vision, Natural Language Processing, Audio Signal Processing applications.
+    Knowledge in dimensionality reduction, model selection algorithms, feature engineering techniques.
 
-    Strong background in deep learning and modeling techniques (CNN, CRNN, RNN, GRU, LSTM).
+    Strong background in deep learning algorithms and modeling techniques (CNN, CRNN, RNN, GRU, LSTM).
     
-    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer,...) and their applications.
+    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer, GPT2...) and their applications.
+
+    Experience with Computer Vision, Natural Language Processing, Audio Signal Processing applications.
 
     Prototype and develop deep learning driven computer vision/imaging algorithms for embedded and mobile platforms.
 
