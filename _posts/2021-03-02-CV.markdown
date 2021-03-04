@@ -35,7 +35,7 @@ Professional Experience
 --------------------
 ---
     
-Key Skills
+Skills
 ----------------------------------
 ---
 Leader
@@ -46,12 +46,24 @@ Team
 
     Hiring new team members and forming the required team skillset.
 
+Strong problem solving and debugging/troubleshooting skills
+
+Communication and presentation
+
+Understanding of technical documentation
+
+Excellent programming skills
+
+Machine learning
+
+Deep learning
+
+Data engineering
+
+Web developing
+
 English
 :   820 TOEIC
-
-Technical Skills
-------------------------
----
 
 Activities And Interests
 ------------------------
