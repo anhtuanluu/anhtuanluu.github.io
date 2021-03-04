@@ -71,7 +71,7 @@ Key Skills
     Drive the testing, documentation, verification, productization and maintenance of the models.
 
 ***Predictive Modeling***
-:   Create, process, and validate a model to forecast future outcomes
+:   Understand the basics of the techniques that create, process, and validate a model to forecast future outcomes.
 
 ***Data engineering***
 :   Experience with SQL, NoSQL, relational databases, database concepts, dimensional modeling and database design.
