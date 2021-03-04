@@ -54,15 +54,18 @@ Organizational and analytical skills
 
 Understanding of technical documentation
 
-Programming
+Programming skills
 :   Excellent programming skills
     Learn quickly new language program
 
 Machine learning, Deep learning algorithms
 
 Computer vision
-:   Prototype and develop deep learning driven computer vision/imaging algorithms for embedded and mobile platforms.\
-    Drive the testing, documentation, verification, productization and maintenance of the models
+:   Working with modern Deep Learning software architecture and application.
+
+    Prototype and develop deep learning driven computer vision/imaging algorithms for embedded and mobile platforms.\
+
+    Drive the testing, documentation, verification, productization and maintenance of the models.
 
 Natural Language Processing
 
@@ -70,6 +73,7 @@ Predictive Modeling
 
 Data engineering 
 :   Experience with SQL, noSQL, relational databases, database concepts, dimensional modeling and database design
+
 Data mining
 
 Web scraping
@@ -82,25 +86,29 @@ English
 Technical Skills
 ----------------------------------
 ---
-Proficient in one or more programming languages such as Python, C/C++, HTML, CSS, Javascript
+Proficient in one or more programming languages such as Python, C/C++, HTML, CSS, Javascript.
 
-Basic experience in using Linux, windows, macOS
+Basic experience in using Linux, Windows, MacOS.
 
-Experience with ML/DL frameworks like Pytorch, Tensorflow, Keras, Mxnet, Pandas, numpy, scikit-learn, Dgl.ai
+Experience with ML/DL frameworks like Pytorch, Tensorflow, Keras, Mxnet, Pandas, Numpy, Scikit-learn, XGBoost, DGL.
 
-Familly with image processing, natural language processing, voice processing tools: OpenCV, Scikit-image, Pillow, Matplotlib, Huggingface, Fairseq, Faiss, NLTK, NeMo, Librosa
+Familly with deep learning tools: OpenCV, Scikit-image, Pillow, Matplotlib, Huggingface, Fairseq, Faiss, NLTK, NeMo, Librosa.
 
-Exposure to GPU technology and CUDA, Cudnn programming, CUDA optimization experience
+Exposure to GPU technology and Nvidia CUDA, Cudnn programming, CUDA optimization experience.
 
-Basic knowledge with hadoop ecosystem (HDFS, YARN, MapReduce, PIG, Hive, Sqoop, Zookeeper...), PySpark
+Proficient web development frameworks such as ReactJs, Jquery, Nodejs, Bootstrap, Wordpress.
 
-Proficient web development frameworks such as Reactjs, Jquery, Nodejs, Bootstrap
+Experience with these technologies: Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery.
 
-Expertise with these technologies: Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery
+Experience with web crawling tools like Scrapy.
 
-Basic experience with common databases such as MySQL, SQL server, SQLite, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j
+Basic knowledge with Hadoop ecosystem: HDFS, YARN, MapReduce, PIG, Hive, Sqoop, Zookeeper.
 
-Basic knowledge with Google Cloud Platform
+Basic knowledge with PySpark, Kafka, Confluent.
+
+Experience with common databases such as MySQL, SQL server, SQLite, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j.
+
+Basic knowledge with Google Cloud Platform.
 
 Activities And Interests
 ------------------------
