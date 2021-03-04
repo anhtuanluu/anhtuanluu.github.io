@@ -36,7 +36,7 @@ Professional Experience
 ---
     
 Key Skills
-----------------------------------
+---------------------
 ---
 Leader
 :   Team motivation, mentorship, cultivation of soft/hard skills of team members.
@@ -56,6 +56,7 @@ Understanding of technical documentation
 
 Programming skills
 :   Excellent programming skills
+
     Learn quickly new language program
 
 Machine learning, Deep learning algorithms
@@ -84,7 +85,7 @@ English
 :   820/990 TOEIC
 
 Technical Skills
-----------------------------------
+----------------------
 ---
 Proficient in one or more programming languages such as Python, C/C++, HTML, CSS, Javascript.
 
