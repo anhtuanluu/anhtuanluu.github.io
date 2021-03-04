@@ -34,7 +34,7 @@ Education
 Professional Experience
 --------------------
 ---
-    
+:   Updating...
 Key Skills
 ---------------------
 ---
@@ -58,20 +58,20 @@ Key Skills
 ***Understanding of technical documentation***
 :   Updating...
 
-***Programming skills***
-:   Excellent programming skills
+***Programming***
+:   Excellent programming skills.
 
-    Learn quickly new language program
+    Learn quickly new language program.
 
 ***Machine learning***
 :   Updating...
 
 ***Deep learning***
-:   Experience with Computer Vision, Natural Language Processing, Audio Signal Processing applications
+:   Experience with Computer Vision, Natural Language Processing, Audio Signal Processing applications.
 
-    Strong background in deep learning and modeling techniques (CNN, CRNN, RNN, GRU, LSTM)
+    Strong background in deep learning and modeling techniques (CNN, CRNN, RNN, GRU, LSTM).
     
-    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer,...) and their applications
+    Good understand in modern deep neural networks (Resnet, VGG, Mobilenet, Darknet, Yolo, SSD, BERT, Transformer,...) and their applications.
 
     Prototype and develop deep learning driven computer vision/imaging algorithms for embedded and mobile platforms.
 
@@ -81,7 +81,7 @@ Key Skills
 :   Updating...
 
 ***Data engineering***
-:   Experience with SQL, NoSQL, relational databases, database concepts, dimensional modeling and database design
+:   Experience with SQL, NoSQL, relational databases, database concepts, dimensional modeling and database design.
 
 ***Web scraping***
 :   Updating...
@@ -90,7 +90,7 @@ Key Skills
 :   Updating...
 
 ***English***
-:   820/990 TOEIC
+:   820/990 TOEIC.
 
 Technical Skills
 ----------------------
