@@ -58,7 +58,7 @@ Key Skills
 ***Machine learning/Deep learning***
 :   Good understand in machine learning algorithms: supervised learning (kNN, SVM, Decision Trees, Naive Bayes, Logistic regression, SGD...), unsupervised learning (K-means, Affinity Propagation, DBSCAN)
 
-    Knowledge in dimensionality reduction, model selection algorithms, feature engineering techniques.
+    Knowledge in dimensionality reduction algorithms, model selection, feature engineering techniques.
 
     Strong background in deep learning algorithms and modeling techniques (CNN, CRNN, RNN, GRU, LSTM).
     
