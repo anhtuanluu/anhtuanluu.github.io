@@ -89,9 +89,9 @@ Key Skills
 
 ***Web developing***
 
-:   Knowledge in website building process, Responsive design, testing and debugging.
+:   Knowledge in website building process, responsive design, testing and debugging.
 
-    Ability to building and maintenance of websites, include front-end and backend.
+    Ability to building and maintenance of websites, including of front-end and backend.
 
 ***Soft skills***
 
