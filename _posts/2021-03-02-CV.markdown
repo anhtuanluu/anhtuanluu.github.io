@@ -17,9 +17,9 @@ Luu Xuan Anh Tuan
 About Me
 --------------------
 ---
-An engineer like everything related to data, thrive on developing great product offerings, great people, and great teams.
+An engineer love everything related to data, interested in the application of statistical learining, data science, machine learning and deep learning to real world problems.
 
-2 years experience with machine learning, deep learning, web crawling and data mining. Hopes to focus more on data science and data engineering in future career.
+2 years experience with machine learning, deep learning, web crawling and data mining, thrive on developing great product offerings, great people, and great teams. Hopes to focus more on data science and data engineering in future career.
 
 Education
 --------------------
