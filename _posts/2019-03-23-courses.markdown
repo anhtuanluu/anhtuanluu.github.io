@@ -36,9 +36,10 @@ Introducing some valuable interesting courses, books, blogs
 [Facebook Research github](https://github.com/facebookresearch)  
 [Open AI github](https://github.com/openai/)  
 [Google Research github](https://github.com/google-research)  
-[Pytorch Examples](https://github.com/pytorch/examples)
+[Pytorch Examples](https://github.com/pytorch/examples)  
 [Tensorflow Examples](https://github.com/tensorflow/examples)  
-
+  
+  
 
 [Probability]: https://web.stanford.edu/class/cs109
 [Bigdata]:   http://web.stanford.edu/class/cs246/
