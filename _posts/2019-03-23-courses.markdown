@@ -4,22 +4,40 @@ title:  "Courses for AI engineer"
 date:   2019-03-23 21:03:36 +0530
 categories: AI Courses
 ---
-Introducing some valuable interesting courses
+Introducing some valuable interesting courses/books/blogs
 
 ### Machine learing & Deep learning
 
 [Machine Learning - Andrew Ng][Machine learning]  
-[Probability for Computer Scientists][Probability]  
-[Bigdata][Bigdata]  
+[Probability for Computer Scientists][Probability]   
 [Basic computer vision][ComputerVision]  
 [Tensorflow for Deep Learning][Tensorflow]  
 [Machine Learning with Graphs][Network]  
 [Dive into deep learning][d2l]	
+[machine learning cơ bản][basicml]	
+[Data science][datas]  
+[Deep learning tiếng việt][https://dlbookvn.gitlab.io/deeplearning/]  
 
 ### Natural language processing
 
 [Natural Language Processing with Deep Learning][Language]  
-[Natural Language Roadmap][Roadmap]	
+[Natural Language Roadmap][Roadmap]	 
+
+### Bigdata
+
+[Bigdata][Bigdata]  
+[Learning Spark][spark]  
+
+### AI code
+
+[Paper with code][https://paperswithcode.com/]  
+[model zoo][https://modelzoo.co/]
+[Microsoft AI Lab github][https://github.com/microsoft/ailab]  
+[Facebook Research github][https://github.com/facebookresearch]  
+[Open AI github][https://github.com/openai/]  
+[Google Research github][https://github.com/google-research]  
+[Pytorch Examples][https://github.com/pytorch/examples]
+[Tensorflow Examples][https://github.com/tensorflow/examples]  
 
 
 [Probability]: https://web.stanford.edu/class/cs109
@@ -31,3 +49,6 @@ Introducing some valuable interesting courses
 [Machine learning]: https://www.coursera.org/learn/machine-learning
 [Roadmap]: https://github.com/anhtuanluu/nlp-roadmap
 [d2l]: https://d2l.ai/index.html
+[spark]: https://github.com/databricks/LearningSparkV2
+[basicml]: https://machinelearningcoban.com/
+[datascience]: https://phamdinhkhanh.github.io/home
