@@ -15,7 +15,7 @@ Introducing some valuable interesting courses, books, blogs
 [Machine Learning with Graphs][Network]  
 [Dive into deep learning][d2l]	
 [machine learning cơ bản][basicml]  
-[Data science][datas]  
+[Data science][datascience]  
 [Deep learning tiếng việt](https://dlbookvn.gitlab.io/deeplearning/)  
 
 ### Natural language processing
