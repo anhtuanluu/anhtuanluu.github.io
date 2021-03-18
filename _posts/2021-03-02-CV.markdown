@@ -51,7 +51,7 @@ Key Skills
 
 ***mathematics and statistics***
 
-:   Good knowledge of algebra, calculus and probability statistics
+:   Good background in algebra, calculus and probability statistics
 
 ***Programming***
 
@@ -114,15 +114,13 @@ Proficient in programming languages such as Python, C/C++, HTML, CSS, Javascript
 
 Basic experience in using Linux, Windows, MacOS.
 
-Experience with ML/DL frameworks like Pytorch, Tensorflow, Keras, Mxnet, Pandas, Numpy, Scikit-learn, XGBoost, DGL.
+Proficient in using ML/DL frameworks like Pytorch, Tensorflow, Keras, Mxnet, Pandas, Numpy, Scikit-learn, XGBoost, DGL.
 
 Familly with deep learning tools: OpenCV, Scikit-image, Pillow, Matplotlib, Huggingface, Fairseq, Faiss, NLTK, NeMo, Librosa.
 
 Exposure to GPU technology and Nvidia CUDA, Cudnn programming, CUDA optimization experience.
 
-Proficient web development frameworks such as ReactJs, Jquery, Nodejs, Bootstrap, Wordpress.
-
-Experience with these technologies: REST Api, Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery, Gitlab, Github.
+Proficient in web development frameworks such as ReactJs, Jquery, Nodejs, Bootstrap, Wordpress.
 
 Experience with web crawling tools like Scrapy, BeautifulSoup.
 
@@ -131,6 +129,8 @@ Basic knowledge with Hadoop ecosystem: HDFS, YARN, MapReduce, PIG, Hive, Sqoop, 
 Basic knowledge with PySpark, Kafka, Confluent.
 
 Experience with common databases such as MySQL, SQL server, SQLite, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j.
+
+Experience with these technologies: REST Api, Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery, Gitlab, Github.
 
 Basic knowledge with Google Cloud Platform.
 
@@ -146,5 +146,5 @@ Gaming
 Sciences 
 :   Deep into discover new scientific knowledge in mathematics and statistics.  
 
-&nbsp;
-&nbsp;
+<br />
+<br />
