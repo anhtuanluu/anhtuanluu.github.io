@@ -38,8 +38,8 @@ Introducing some valuable interesting courses, books, blogs
 [Google Research github](https://github.com/google-research)  
 [Pytorch Examples](https://github.com/pytorch/examples)  
 [Tensorflow Examples](https://github.com/tensorflow/examples)  
-  
-  
+&NewLine;
+&NewLine;
 
 [Probability]: https://web.stanford.edu/class/cs109
 [Bigdata]:   http://web.stanford.edu/class/cs246/
