@@ -144,6 +144,7 @@ Gaming
 :   Love playing video games in spare time like AOE, LOL.
 
 Sciences 
-:   Deep into discover new scientific knowledge in mathematics and statistics.
-&NewLine;
-&NewLine;
+:   Deep into discover new scientific knowledge in mathematics and statistics.  
+
+&nbsp;
+&nbsp;
