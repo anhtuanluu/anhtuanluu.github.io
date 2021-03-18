@@ -31,10 +31,31 @@ Education
 
     GPA: 3.31/4
 
+    Graduation project: Using AI in designing a temperature controller for electric furnace.
+
+
 Professional Experience
 --------------------
 ---
-:   Updating...
+***Aug 2019 — Present***
+:   ### ELCOM - AI Enginneer
+
+    updating...
+
+***Sep 2018 — Aug 2019***
+:   ### FPT Software - C/C++ Developer
+
+    updating...
+
+***May 2013 — Sep 2018***
+:   ### TOJI Group - Automation Engineer
+
+    updating...
+
+***Spare time***
+:   ### Active Learner
+
+    updating...
 
 Key Skills
 ---------------------
