@@ -4,7 +4,7 @@ title:  "Courses for AI engineer"
 date:   2019-03-23 21:03:36 +0530
 categories: AI Courses
 ---
-Introducing some valuable interesting courses/books/blogs
+Introducing some valuable interesting courses, books, blogs
 
 ### Machine learing & Deep learning
 
@@ -14,9 +14,9 @@ Introducing some valuable interesting courses/books/blogs
 [Tensorflow for Deep Learning][Tensorflow]  
 [Machine Learning with Graphs][Network]  
 [Dive into deep learning][d2l]	
-[machine learning cơ bản][basicml]	
+[machine learning cơ bản][basicml]  
 [Data science][datas]  
-[Deep learning tiếng việt][https://dlbookvn.gitlab.io/deeplearning/]  
+[Deep learning tiếng việt](https://dlbookvn.gitlab.io/deeplearning/)  
 
 ### Natural language processing
 
@@ -30,14 +30,14 @@ Introducing some valuable interesting courses/books/blogs
 
 ### AI code
 
-[Paper with code][https://paperswithcode.com/]  
-[model zoo][https://modelzoo.co/]
-[Microsoft AI Lab github][https://github.com/microsoft/ailab]  
-[Facebook Research github][https://github.com/facebookresearch]  
-[Open AI github][https://github.com/openai/]  
-[Google Research github][https://github.com/google-research]  
-[Pytorch Examples][https://github.com/pytorch/examples]
-[Tensorflow Examples][https://github.com/tensorflow/examples]  
+[Paper with code](https://paperswithcode.com/)  
+[model zoo](https://modelzoo.co/)  
+[Microsoft AI Lab github](https://github.com/microsoft/ailab)  
+[Facebook Research github](https://github.com/facebookresearch)  
+[Open AI github](https://github.com/openai/)  
+[Google Research github](https://github.com/google-research)  
+[Pytorch Examples](https://github.com/pytorch/examples)
+[Tensorflow Examples](https://github.com/tensorflow/examples)  
 
 
 [Probability]: https://web.stanford.edu/class/cs109
