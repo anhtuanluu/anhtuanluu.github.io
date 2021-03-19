@@ -49,13 +49,23 @@ Professional Experience
 
 ***May 2013 — Sep 2018***
 :   ### TOJI Group - Automation Engineer
+    
+    Design P & I drawing for power station on AutoCAD.
 
-    updating...
+    Development of PLC programs (Siemens), configuring Human-Machine Interfaces (HMI) for SCADA systems.
+
+    Directly inspect, test and debug the electrical cabinet manufacturing process.
 
 ***Spare time***
 :   ### Active Learner
 
-    updating...
+    Constantly improve data science skills myself by learning online, joining some interesting contests on Kaggle, Aivivn,...
+
+    Top 20 at 2020 Zalo AI challenge about: Voice recognitation, Traffic sign detection
+
+    Self-developed an webapp that solve the math problem inspired by wolframalpha.com, now mainly focus on designing and developing user-friendly website for this project, ready go online at mathpp.com
+
+    Learn something news.
 
 
 Key Skills
