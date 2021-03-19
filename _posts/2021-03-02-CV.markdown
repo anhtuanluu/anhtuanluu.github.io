@@ -61,9 +61,9 @@ Professional Experience
 
     Constantly improve data science skills myself by learning online, joining some interesting contests on Kaggle, Aivivn,...
 
-    Top 20 at 2020 Zalo AI challenge about: Voice recognitation, Traffic sign detection
+    Top 20 at 2020 Zalo AI challenge about: Voice recognitation, Traffic sign detection.
 
-    Self-developed an webapp that solve the math problem inspired by wolframalpha.com, now mainly focus on designing and developing user-friendly website for this project, ready go online at mathpp.com
+    Self-developed an webapp that solve the math problem inspired by wolframalpha.com, now mainly focus on designing and developing user-friendly website for this project, ready go online at mathpp.com.
 
     Learn something news.
 
