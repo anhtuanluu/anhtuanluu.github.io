@@ -40,7 +40,7 @@ Professional Experience
 ***Aug 2019 — Present***
 :   ### ELCOM - AI Enginneer
     
-    Worked on research and development of computer vision algorithms centered on object recognition
+    Worked on research and development of computer vision algorithms centered on object recognition.
 
     Analyze data and improve the object detection model for traffic system, estimating increase 5% mean average precision and increase inference time by 10 fps.
 
@@ -52,7 +52,7 @@ Professional Experience
 
     Developed algorithms, use image processing for anomaly detection system in traffic. 
 
-    Develop and optimize face recognition system using Jetson Nano
+    Develop and optimize face recognition system using Jetson Nano.
 
     Build ETL system using Mongodb, Elasticsearch and Kafka to improve search engine for web colearn.vn.
 
@@ -63,6 +63,8 @@ Professional Experience
     Research, build a Chinese to Vietnamese speech to text system include model, backend, webapp to present to customers. 
 
     Experiment and apply natural language processing tasks to improve speech to text system such as: Named entity recognition, Punctuation restoration.. 
+
+    Train new staffs with machine learing/deep learing knowlegde.
 
 ***Sep 2018 — Aug 2019***
 :   ### FPT Software - C/C++ Developer
