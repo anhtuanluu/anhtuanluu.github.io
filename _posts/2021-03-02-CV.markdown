@@ -166,6 +166,11 @@ Experience with these technologies: REST Api, Flask, Django, Fasapi, Docker, Grp
 
 Basic knowledge with Google Cloud Platform.
 
+Certificate
+------------------------
+---
+Tensorflow Developver Certificate 2021-2024
+
 Activities And Interests
 ------------------------
 ---
