@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tuanlxa's resume"
+title:  "My resume"
 date:   2021-03-03 19:03:36 +0530
 permalink: /cv/
 ---
