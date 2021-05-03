@@ -44,13 +44,13 @@ Professional Experience
 
     Analyze data and improve the object detection model for traffic system, estimating increase 5% mean average precision and increase inference time by 10 fps.
 
-    Build, improve and maintain the real time plate detection model include detection and plate character recognition tasks, ensure the accuracy is higher than 95% and can run in embedded system like Jetson Xavier, TX2.
+    Build, improve and maintain the real time plate detection model include plate detection and plate character recognition tasks, ensure the accuracy is higher than 95% and can run in embedded system like Jetson Xavier, TX2.
 
     Research and build the real time deep learning model to classify traffic vehicles with available attributes: color, model, make... 
     
     Develop the model to classify pedestrian's atributes such as: hat, clothes, bags, gender, age...
 
-    Developed algorithms, use image processing for anomaly detection system in traffic. 
+    Develop algorithms, use image processing for anomaly detection system in traffic. 
 
     Develop and optimize face recognition system using Jetson Nano.
 
