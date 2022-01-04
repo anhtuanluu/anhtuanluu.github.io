@@ -60,13 +60,13 @@ Professional Experience
 
     Research for sematic search and question answer system for search engine of colearn.vn.
 
-    EDA data and build machine learing model to classify students by class.
+    EDA data and build machine learning model to classify students by class.
 
     Research, build a Chinese to Vietnamese speech to text system include model, backend, webapp to present to customers. 
 
     Experiment and apply natural language processing tasks to improve speech to text system such as: Named entity recognition, Punctuation restoration.. 
 
-    Train new staffs with machine learing/deep learing knowlegde.
+    Train new staffs with machine learning/deep learning knowlegde.
 
 ***Sep 2018 — Aug 2019***
 :   ### FPT Software - C/C++ Developer
@@ -190,7 +190,7 @@ Basic knowledge with Hadoop ecosystem: HDFS, YARN, MapReduce, PIG, Hive, Sqoop, 
 
 Basic knowledge with PySpark, Kafka, Confluent.
 
-Experience with common databases such as MySQL, SQL server, SQLite, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j.
+Experience with common databases such as MySQL, SQL server, PostgreSQL, mongoDB, arrangDB, Elastic search, Redis, Neo4j.
 
 Experience with these technologies: REST Api, Flask, Django, Fasapi, Docker, Grpc, Nginx, Celery, Gitlab, Github.
 
