@@ -4,6 +4,7 @@ title:  "Courses for AI engineer"
 date:   2019-03-23 21:03:36 +0530
 categories: AI Courses
 ---
+Love everything related to data
 Introducing some valuable interesting courses, books, blogs
 
 ### Machine learing & Deep learning
