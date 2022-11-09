@@ -45,10 +45,11 @@ canvas {
 
  <BODY>
 
-  <canvas id="pinkboard"></canvas>
-
+  <canvas id="pinkboard">
+  </canvas>
+  
   <script>
-
+    
   /*
 
  * Settings
@@ -197,6 +198,15 @@ var Particle = (function() {
       return (--t) * t * t + 1;
 
     }
+    c = document.getElementById("pinkboard")
+    context.font = "30px serif";
+    var gradient = context.createLinearGradient(0, 0, 200, 0);
+        gradient.addColorStop("0","#ea80b0");
+        gradient.addColorStop("0.5", "blue");
+        gradient.addColorStop("1.0", "#ea80b0");
+    context.fillStyle = gradient;
+    context.textAlign = "center";
+    context.fillText("Yêu vợ Nga nắm!",c.width/2,c.height/2-30);
 
     var size = image.width * ease(this.age / settings.particles.duration);
 
@@ -351,7 +361,6 @@ var ParticlePool = (function() {
       particleRate = settings.particles.length / settings.particles.duration, // particles/sec
 
       time;
-
  
 
   // get point on heart with -PI <= t <= PI
